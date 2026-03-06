@@ -1,2 +1,2 @@
 # yogavital
-It's a online yoga classes teaching center
+Yoga Vital Online Yoga Classes Website
